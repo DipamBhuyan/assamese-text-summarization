@@ -6,13 +6,6 @@ The goal is to generate concise and meaningful summaries for Assamese news artic
 
 ---
 
-## 👨‍💻 Team Contributions
-- **Member 1**: Data collection, preprocessing, and dataset preparation.  
-- **Member 2**: Model integration using LLaMA3-70B via ChatGroq API, implementing Zero-Shot, Few-Shot, and Chain-of-Thought (CoT) prompting.  
-- **Member 3**: Web application development (Flask interface), evaluation, and error analysis.  
-
----
-
 ## 📂 Dataset
 We collected datasets from **Kaggle** containing Assamese news articles:
 - **News18** → 6,000 articles  
@@ -98,6 +91,6 @@ The project follows a structured pipeline:
 - [ROUGE Metric](https://aclanthology.org/W04-1013/)  
 - [BERTScore Paper](https://arxiv.org/abs/1904.09675)  
 - [LLaMA Models](https://ai.meta.com/llama/)  
-- Kaggle Assamese Dataset (News18, NENow)  
+- Kaggle Assamese Dataset - News18 & NENow(https://www.kaggle.com/datasets/krishnabhdas/assamese-news-article-dataset)
 
 ---
