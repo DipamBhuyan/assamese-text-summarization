@@ -91,6 +91,6 @@ The project follows a structured pipeline:
 - [ROUGE Metric](https://aclanthology.org/W04-1013/)  
 - [BERTScore Paper](https://arxiv.org/abs/1904.09675)  
 - [LLaMA Models](https://ai.meta.com/llama/)  
-- Kaggle Assamese Dataset - News18 & NENow(https://www.kaggle.com/datasets/krishnabhdas/assamese-news-article-dataset)
+- [Kaggle Assamese Dataset - News18 & NENow](https://www.kaggle.com/datasets/krishnabhdas/assamese-news-article-dataset)
 
 ---
